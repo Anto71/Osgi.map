@@ -1,0 +1,12 @@
+-baseline: *
+-buildpath: \
+	osgi.annotation;version=6.0.1,\
+	biz.aQute.bnd.annotation,\
+	osgi.map.cluster.cluster;version=latest,\
+	osgi.map.tuple.tuple;version=latest,\
+	osgi.map.clusterSetApi.clusterSetApi;version=latest,\
+	osgi.cmpn,\
+	osgi.map.clusterSetImpl.clusterSetImpl;version=latest,\
+	osgi.map.dataService.api.dataService;version=latest
+-runee: JavaSE-1.7
+-sub: *.bnd

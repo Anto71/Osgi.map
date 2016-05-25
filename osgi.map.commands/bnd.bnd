@@ -1,0 +1,14 @@
+-buildpath: \
+	osgi.core,\
+	biz.aQute.bnd.annotation,\
+	${junit},\
+	org.apache.felix.gogo.runtime,\
+	osgi.map.tuple.tuple;version=latest,\
+	osgi.map.attribute.attribute;version=latest,\
+	osgi.map.cluster.cluster;version=latest,\
+	osgi.map.dataImpl.dataImpl;version=latest,\
+	osgi.map.arraySet.arraySet;version=latest,\
+	osgi.map.item.item;version=latest,\
+	osgi.map.cluster.manager.cluster.manager;version=latest,\
+	osgi.map.dataService.api.dataService;version=latest
+-sub: *.bnd

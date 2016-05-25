@@ -1,0 +1,10 @@
+-buildpath: \
+	osgi.core,\
+	osgi.cmpn,\
+	biz.aQute.bnd.annotation,\
+	${junit},\
+	osgi.map.clusterSetApi.clusterSetApi;version=latest,\
+	osgi.map.KmeansMinerApi.kmeansminerApi;version=latest,\
+	osgi.map.clusterService.clusterService;version=latest,\
+	osgi.map.dataService.api.dataService;version=latest
+-sub: *.bnd

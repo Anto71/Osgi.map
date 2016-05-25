@@ -1,0 +1,16 @@
+-buildpath: \
+	biz.aQute.bnd.annotation,\
+	${junit},\
+	osgi.map.cluster.cluster;version=latest,\
+	osgi.map.tuple.tuple;version=latest,\
+	osgi.map.clusterSetApi.clusterSetApi;version=latest,\
+	org.apache.felix.dependencymanager,\
+	org.apache.felix.dependencymanager.shell,\
+	org.apache.felix.dependencymanager.runtime,\
+	osgi.core;version=4.2,\
+	org.apache.felix.fileinstall,\
+	org.apache.felix.configadmin,\
+	osgi.cmpn;version=4.2,\
+	org.apache.felix.gogo.command,\
+	osgi.map.dataService.api.dataService;version=latest
+-sub: *.bnd

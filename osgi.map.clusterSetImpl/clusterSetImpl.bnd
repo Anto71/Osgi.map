@@ -1,0 +1,4 @@
+Bundle-Version: 0.0.0.${tstamp}
+Export-Package: osgi.map.clusterSetImpl
+Private-Package: osgi.map.clusterSetImpl
+Service-Component: *

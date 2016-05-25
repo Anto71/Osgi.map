@@ -1,0 +1,9 @@
+-buildpath: \
+	osgi.annotation;version=6.0.1,\
+	osgi.map.attribute.attribute;version=latest,\
+	osgi.map.arraySet.arraySet;version=latest,\
+	osgi.map.item.item;version=latest,\
+	osgi.map.tuple.tuple;version=latest,\
+	osgi.map.dataService.api.dataService;version=latest
+-sub: *.bnd
+Bundle-Version: 0.0

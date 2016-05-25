@@ -1,0 +1,8 @@
+-buildpath: \
+	osgi.core,\
+	osgi.cmpn,\
+	biz.aQute.bnd.annotation,\
+	${junit},\
+	osgi.map.clusterService.clusterService;version=latest,\
+	osgi.map.dataService.api.dataService;version=latest
+-sub: *.bnd

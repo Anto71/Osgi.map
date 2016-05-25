@@ -1,0 +1,10 @@
+-buildpath: \
+	osgi.core,\
+	osgi.cmpn,\
+	biz.aQute.bnd.annotation,\
+	${junit},\
+	org.apache.felix.dependencymanager;version=3.1,\
+	org.apache.felix.dependencymanager.runtime;version=3.1,\
+	org.apache.felix.dependencymanager.shell;version=3.0,\
+	osgi.map.clusterService.clusterService;version=latest
+-sub: *.bnd

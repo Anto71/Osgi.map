@@ -1,0 +1,3 @@
+Bundle-Version: 0.0.0.${tstamp}
+Export-Package: osgi.map.cluster.manager
+Bundle-Activator: osgi.map.cluster.manager.Activator

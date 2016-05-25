@@ -1,0 +1,7 @@
+-buildpath: \
+	osgi.annotation;version=6.0.1,\
+	osgi.map.cluster.cluster;version=latest,\
+	osgi.map.tuple.tuple;version=latest,\
+	osgi.cmpn,\
+	osgi.map.dataService.api.dataService;version=latest
+-sub: *.bnd

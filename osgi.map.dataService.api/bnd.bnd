@@ -1,0 +1,10 @@
+-buildpath: \
+	osgi.annotation;version=6.0.1,\
+	osgi.core,\
+	osgi.cmpn,\
+	osgi.map.arraySet.arraySet;version=latest,\
+	osgi.map.item.item;version=latest,\
+	osgi.map.attribute.attribute;version=latest,\
+	osgi.map.tuple.tuple;version=latest,\
+	biz.aQute.bnd.annotation
+-sub: *.bnd

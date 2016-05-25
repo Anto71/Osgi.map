@@ -1,0 +1,4 @@
+Bundle-Version: 0.0.0.${tstamp}
+Service-Component: *
+Private-Package: osgi.map.dataImpl
+Export-Package: osgi.map.dataImpl
